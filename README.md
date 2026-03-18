@@ -153,15 +153,7 @@ ios/Runner/GoogleService-Info.plist      ← Firebase iOS config
 
 ---
 
-## 🎓 Academic Context
 
-> **Graduation Project** — Sadat Academy for Management and Sciences, Faculty of Management Sciences, Major: BIS
->
-> **Supervisor:** Dr. Antony Noshy
->
-> **Team:** Mahmoud Ahmed Mohamed Karim · Shady Raef Alwise Mina · Ahmed Yousry Mohamed Mohamed · Mohamed Ehab Mohamed Lotfy
-
----
 
 ## 🔮 Future Roadmap
 

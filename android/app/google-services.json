@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "465873252815",
+    "project_id": "cartiety",
+    "storage_bucket": "cartiety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465873252815:android:abf449d545213650af22ba",
+        "android_client_info": {
+          "package_name": "com.example.carteey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRKl3Cy_qdTOCAtuZ3wgHUUfTB_G9XTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465873252815-gmc81vm0hni55aqnj9flg43nfdgkl5d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meallplanning2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465873252815:android:9ab36091006a4931af22ba",
+        "android_client_info": {
+          "package_name": "com.example.meallplanning2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRKl3Cy_qdTOCAtuZ3wgHUUfTB_G9XTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465873252815-gmc81vm0hni55aqnj9flg43nfdgkl5d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meallplanning2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465873252815:android:fb72d70378720290af22ba",
+        "android_client_info": {
+          "package_name": "com.example.untitled25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRKl3Cy_qdTOCAtuZ3wgHUUfTB_G9XTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465873252815-gfvv67o5a6m8g8j1ge79r2ckpee69cf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465873252815-gmc81vm0hni55aqnj9flg43nfdgkl5d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meallplanning2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
